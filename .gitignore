@@ -22,20 +22,5 @@ Thumbs.db
 # Modelos descargados
 models/
 
-# Dataset completo
-data/raw/
-
-# Audios extraídos
-data/extracted/
-
-# Archivos comprimidos
-*.zip
-
-# Resultados generados
-results/
-
-# Figuras temporales
-reports/figures/
-
 # Cache
 .cache/
