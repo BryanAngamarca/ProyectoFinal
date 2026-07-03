@@ -1,0 +1,41 @@
+# Entorno virtual
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Resultados temporales
+*.log
+
+# Modelos descargados
+models/
+
+# Dataset completo
+data/raw/
+
+# Audios extraídos
+data/extracted/
+
+# Archivos comprimidos
+*.zip
+
+# Resultados generados
+results/
+
+# Figuras temporales
+reports/figures/
+
+# Cache
+.cache/
