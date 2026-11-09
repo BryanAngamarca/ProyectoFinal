@@ -1,8 +1,9 @@
-﻿Métrica,Valor
-Audios originales,0
-Audios procesados,50
-Duración promedio,6.59
-Duración mínima,1.48
-Duración máxima,24.48
+﻿Indicador,Valor
+Audios originales,23537
+Audios procesados,23537
+Pendientes,0
+Duración total (horas),52.917
+Duración media (s),8.094
 Frecuencia de muestreo,16000
 Canales,1
+Subtipo,PCM_16

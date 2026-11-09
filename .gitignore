@@ -24,3 +24,7 @@ models/
 
 # Cache
 .cache/
+
+# Datasets y audios
+data/raw/
+data/processed/audios_normalizados/
